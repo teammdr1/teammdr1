@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xrzlsd.xrzlsd)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=neskapiq.neskapiq)
 
 ## 🌍〃About Me
 16. programming, maths & AI enthusiast
@@ -6,7 +6,7 @@
 ## 🌐〃Socials
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](<https://discord.com/users/1200851369226149998>)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/xrzlsd
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/neskapiq
 )
 
 ## 💻〃Languages-Tools
@@ -19,7 +19,7 @@
 
 ## 📊〃Stats
 
-![bloxet's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrzlsd&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xrzlsd&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrzlsd&theme=gruvbox)
+![bloxet's GitHub stats](https://github-readme-stats.vercel.app/api?username=neskapiq&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neskapiq&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neskapiq&theme=gruvbox)
 
