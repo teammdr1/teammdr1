@@ -19,7 +19,7 @@
 
 ## 📊〃Stats
 
-![neskapiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=17m08&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=17m08&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17m08&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17m08&theme=gruvbox)
 
