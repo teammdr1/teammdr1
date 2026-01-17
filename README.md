@@ -1,7 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=17m08.17m08)
 
 ## 🌍 About Me
-👋 Hi, I'm **17m08**, a 17-year-old enthusiast passionate about **programming, mathematics, and artificial intelligence**.  
+👋 Hi, I'm **teammdr**, a 17-year-old enthusiast passionate about **programming, mathematics, and artificial intelligence**.  
 I enjoy building projects, experimenting with new technologies, and continuously improving my technical skills.
 
 ## 🌐 Socials
