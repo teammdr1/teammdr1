@@ -3,16 +3,63 @@
 <h1 align="center">👋 Hi, I'm teammdr</h1>
 <h3 align="center">Developer • Tech Enthusiast • AI Curious</h3>
 
+<p align="center">
+  <i>“Build. Break. Learn. Repeat.”</i>
+</p>
+
 ---
 
 ## 🌍 About Me
 
 I'm **teammdr**, a 17-year-old developer passionate about **programming, mathematics, and artificial intelligence**.  
-I enjoy creating projects, experimenting with new technologies, and constantly improving my skills through practice and problem-solving.
+I like understanding how things work internally, building concrete projects, and improving my skills through experimentation.
 
-- 💻 Interested in software development & automation  
-- 🤖 Curious about AI, algorithms, and how things work under the hood  
-- 🚀 Always learning and building
+- 💻 Software development & automation  
+- 🤖 AI, algorithms, and logic  
+- 🧠 Problem-solving mindset  
+- 🚀 Always learning by doing
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 Improving my **JavaScript & Node.js** skills  
+- 🔹 Building **Discord bots & tools**  
+- 🔹 Learning more about **AI concepts & Python**  
+- 🔹 Structuring projects cleanly (clean code, logic, performance)
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,nodejs,discordjs,python,git,github" />
+</p>
+
+---
+
+## 📌 Projects & Experiments
+
+> Some things I enjoy working on:
+
+- 🤖 Discord bots (moderation, utilities, automation)  
+- ⚙️ Small tools & scripts to automate tasks  
+- 🧪 Experiments with APIs & logic-based systems  
+- 📚 Learning projects (School projects, algorithms, Python)
+
+*(More projects coming as I build & refine them)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=gruvbox" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=gruvbox" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&layout=compact&theme=gruvbox" />
+</p>
 
 ---
 
@@ -29,20 +76,9 @@ I enjoy creating projects, experimenting with new technologies, and constantly i
 
 ---
 
-## 💻 Languages & Tools
+## 🧠 Mindset
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,nodejs,discordjs,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=gruvbox" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=gruvbox" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&layout=compact&theme=gruvbox" />
-</p>
+- Write code you understand  
+- Optimize later, clarity first  
+- Learn from mistakes  
+- Consistency > motivation
