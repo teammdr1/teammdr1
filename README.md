@@ -93,11 +93,11 @@ Building things on the internet and learning new technologies every day.
 
 <p align="center">
 
-<a href="https://discord.com/users/1200851369226149998">
+<a href="https://discord.com/users/1200909869872586752">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://github.com/17m08">
+<a href="https://github.com/teammdr1">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
