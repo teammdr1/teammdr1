@@ -30,5 +30,5 @@
 <h2 align="center">💬 Discord</h2>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" />
+  <img src="https://discord.c99.nl/widget/theme-4/1484967573555646578.png" />
 </p>
