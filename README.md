@@ -1,12 +1,10 @@
-<h1 align="center">⚡ TEAMMDR1 ⚡</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=teammdr1&label=Vues&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">📊 Statistiques</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
@@ -15,15 +13,15 @@
 
 ---
 
-<h2 align="center">🧠 Tech & Tools</h2>
+<h2 align="center">🧠 Tech et Outils</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,lua,vscode,github,git,figma,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,lua,vscode,github,git,figma" />
 </p>
 
 ---
 
-<h2 align="center">🔥 Activity</h2>
+<h2 align="center">🔥 Activités </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
