@@ -26,9 +26,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
-<h2 align="center">💬 Discord</h2>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1484967573555646578.png" />
-</p>
