@@ -1,5 +1,6 @@
 <div align="center">
   
+<br/>
 <a href="https://discord.com/users/1484967573555646578">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"/>
 </a>
@@ -12,6 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=teammdr1&label=Vues&color=0e75b6&style=flat" />
 </p>
+<br/>
 
 ---
 
