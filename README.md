@@ -26,3 +26,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"> Discord Presence
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
+
+</div>
