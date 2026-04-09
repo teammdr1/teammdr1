@@ -4,6 +4,26 @@
 
 ---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> About Me
+
+```javascript
+const WhoAmI = {
+  name: "teammdr",
+  role: "Full-Stack Developer",
+  experience: "2+ years",
+  languages: ["JavaScript", "TypeScript", "Python"],
+  technologies: {
+    frontend: ["HTML5", "CSS3"],
+    backend: ["Node.js"],
+    tools: ["Git", "VS Code", "NPM"]
+  },
+  currentFocus: "Building discord bots and online communities",
+  startedWith: "Discord bot development in 2024"
+};
+```
+
+---
+
 <h2 align="center">📊 Statistiques</h2>
 
 <p align="center">
