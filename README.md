@@ -80,6 +80,6 @@ const CurrentProject = {
 [![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
 
 ## <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" width="25px"> Life Balance
-<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" /> </div> ```
+<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" /> </div>
 
 </div>
