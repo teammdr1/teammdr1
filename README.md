@@ -1,6 +1,6 @@
 <div align="center">
 
-https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
   
 <a href="https://discord.com/users/1484967573555646578">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"/>
@@ -79,7 +79,7 @@ const CurrentProject = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
 
-## <img src="" width="25px"> Life Balance
-https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY0NjA2NTEsIm5iZiI6MTc3NjQ2MDM1MSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDE3VDIxMTIzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkMDYzMjQ2Yjk3M2ZkN2I1MWQ0MGQ3ZjA4ZWZiZmQxNmY2MjAyZWViMmY2YjUwZGUyZGRkM2YyMTQ3NDZmODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lx0RwTJinWTQwQ3OU70LLs1s0S1-vm8lmu2ja50fY9E
+## <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" width="25px"> Life Balance
+<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif" /> </div> ```
 
 </div>
