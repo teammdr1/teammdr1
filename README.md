@@ -36,7 +36,7 @@ const WhoAmI = {
 
 ---
 
-<h2 align="center">📊 Stats</h2>
+<h2>📊 Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
@@ -45,7 +45,7 @@ const WhoAmI = {
 
 ---
 
-<h2 align="center">🧠 Tech & Tools</h2>
+<h2>🧠 Tech & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,lua,vscode,github,git,figma" />
@@ -53,7 +53,7 @@ const WhoAmI = {
 
 ---
 
-<h2 align="center">🔥 Activities </h2>
+<h2>🔥 Activities </h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
@@ -61,7 +61,7 @@ const WhoAmI = {
 
 ---
 
-<h2 align="center">🧭 Current Projet </h2>
+<h2>🧭 Current Projet </h2>
 
 ```javascript
 const CurrentProject = {
