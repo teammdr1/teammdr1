@@ -59,6 +59,18 @@ const WhoAmI = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
+---
+
+<h2 align="center">🧭 Current Projet </h2>
+
+```javascript
+const CurrentProject = {
+  name: "Multi-purpose Discord bot",
+  goal: "Community management & automation",
+  features: ["moderation", "tickets", "logs", "utilities"]
+};
+```
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25px"> Discord Presence
 
 <div align="center">
