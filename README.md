@@ -79,6 +79,8 @@ const CurrentProject = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
 
+---
+
 ## Show some ❤️ by starring some of my repositories!
 
 </div>
