@@ -1,6 +1,4 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
   
 <a href="https://discord.com/users/1484967573555646578">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"/>
