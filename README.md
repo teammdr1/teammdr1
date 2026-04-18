@@ -14,8 +14,6 @@
 </p>
 </div>
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="24px"> About Me
 
 ```javascript
@@ -34,8 +32,6 @@ const WhoAmI = {
 };
 ```
 
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25px"> Stats
 
 <p align="center">
@@ -45,15 +41,11 @@ const WhoAmI = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyonight&hide_border=true&area=true"/>
 </p>
 
----
-
 <h2>🧠 Tech & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,lua,vscode,github,git,figma" />
 </p>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="25px">  Current Projet
 
@@ -70,8 +62,6 @@ const CurrentProject = {
 <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
-
----
 
 ## Show some ❤️ by starring some of my repositories!
 
