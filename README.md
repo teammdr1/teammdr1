@@ -43,6 +43,7 @@ const WhoAmI = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -51,14 +52,6 @@ const WhoAmI = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,lua,vscode,github,git,figma" />
-</p>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25px"> Activities
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
