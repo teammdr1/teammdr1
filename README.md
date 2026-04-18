@@ -42,7 +42,7 @@ const WhoAmI = {
   <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&theme=dark&show_icons=true&hide_border=false&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=dark&hide_border=false" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=gruvbox&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=dark&hide_border=true&area=true"/>
 </p>
 
 ---
