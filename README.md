@@ -27,16 +27,31 @@
 ```javascript
 const WhoAmI = {
   name: "teammdr",
-  role: "Full-Stack Developer",
+  role: "Developer",
+
   experience: "2+ years",
+
   languages: ["JavaScript", "TypeScript", "Python"],
+
   technologies: {
     frontend: ["HTML5", "CSS3"],
     backend: ["Node.js"],
-    tools: ["Git", "VS Code", "NPM"]
+    tools: ["Git", "GitHub", "VS Code", "NPM"]
   },
-  currentFocus: "Building discord bots and online communities",
-  startedWith: "Discord bot development in 2024"
+
+  currentFocus: [
+    "Discord bots development",
+    "Community tools",
+    "Small web projects"
+  ],
+
+  startedWith: "Discord bot development (2024)",
+
+  interests: [
+    "Automation",
+    "Discord ecosystems",
+    "Web experimentation"
+  ]
 };
 ```
 
@@ -55,16 +70,6 @@ const WhoAmI = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,lua,vscode,github,git,figma" />
 </p>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="25px">  Current Projet
-
-```javascript
-const CurrentProject = {
-  name: "Multi-purpose Discord bot",
-  goal: "Community management & automation",
-  features: ["moderation", "tickets", "logs", "utilities"]
-};
-```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
