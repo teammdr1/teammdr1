@@ -52,11 +52,32 @@ const WhoAmI = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25px"> Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=tokyonight&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teammdr1&theme=tokyonight" alt="Profile Details" />
+
+  <!-- Stats principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Langages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Graphique activité -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyonight&hide_border=true&area=true" />
+
+</p>
+
+<p align="center">
+
+  <!-- Résumé profil -->
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teammdr1&theme=tokyonight" />
+
 </p>
 
 <h2>🧠 Tech & Tools</h2>
