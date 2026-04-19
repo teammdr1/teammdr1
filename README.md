@@ -79,3 +79,5 @@ const CurrentProject = {
 ## Show some ❤️ by starring some of my repositories!
 
 </div>
+
+<img src="https://raw.githubusercontent.com/teammdr1/teammdr1/output/snake.svg" alt="Snake animation" />
