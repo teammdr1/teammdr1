@@ -48,7 +48,6 @@ const WhoAmI = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=teammdr1&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teammdr1&theme=tokyonight" alt="Profile Details" />
-  <img src="https://github-profile-trophy.vercel.app/?username=teammdr1&tokyonight" alt="Github Trophy" />
 </p>
 
 <h2>🧠 Tech & Tools</h2>
