@@ -3,19 +3,23 @@
 ![Header](./github-header-banner.png)
   
 <a href="https://discord.com/users/1484967573555646578">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000">
 </a>
 <a href="https://github.com/teammdr1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000">
 </a>
 <a href="https://instagram.com/teammdr1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000">
 </a>
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=teammdr1&label=Profile%20Views&color=3da5ff&style=for-the-badge)](https://github.com/teammdr1) [![GitHub followers](https://img.shields.io/github/followers/teammdr1?label=Followers&style=for-the-badge&logo=github&color=ff6666)](https://github.com/teammdr1?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/teammdr1?label=Total%20Stars&style=for-the-badge&logo=github&color=fcec03)](https://github.com/teammdr1)
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=teammdr1&style=for-the-badge&label=PROFILE+VIEWS&color=3da5ff">
+
+<img src="https://img.shields.io/github/followers/teammdr1?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=000000&color=ff6666">
+
+<img src="https://img.shields.io/github/stars/teammdr1?style=for-the-badge&label=STARS&logo=github&logoColor=white&labelColor=000000&color=fcec03">
+
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="24px"> About Me
