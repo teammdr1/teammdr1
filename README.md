@@ -28,25 +28,19 @@
 const WhoAmI = {
   name: "teammdr",
   role: "Developer",
-
   experience: "2+ years",
-
   languages: ["JavaScript", "TypeScript", "Python"],
-
   technologies: {
     frontend: ["HTML5", "CSS3"],
     backend: ["Node.js"],
     tools: ["Git", "GitHub", "VS Code", "NPM"]
   },
-
   currentFocus: [
     "Discord bots development",
     "Community tools",
     "Small web projects"
   ],
-
   startedWith: "Discord bot development (2024)",
-
   interests: [
     "Automation",
     "Discord ecosystems",
