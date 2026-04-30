@@ -75,7 +75,7 @@ const WhoAmI = {
 <h2>🧠 Tech & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,discordjs,html,css,lua,vscode,github,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,lua,vscode,github,git,figma" />
 </p>
 
 ### ✍️ Random Dev Quote
