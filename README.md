@@ -50,10 +50,10 @@ const WhoAmI = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25px"> Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teammdr1&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teammdr1&theme=tokyonight&utcOffset=2" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=teammdr1&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=teammdr1&theme=dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=teammdr1&theme=dark&utcOffset=2" height="150"/>
 </p>
 
 <h2>🧠 Tech & Tools</h2>
@@ -63,7 +63,7 @@ const WhoAmI = {
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="25px"> Discord Presence
 
