@@ -71,6 +71,9 @@ const WhoAmI = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1484967573555646578?theme=dark&bg=0D1117&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=Coding%20something%20cool...)](https://discord.com/users/1484967573555646578)
 
+## Celestial
+
+[![Discord Bots](https://top.gg/api/widget/1492793436821131394.svg)(https://top.gg//bot/1492793436821131394)
 
 ## Show some ❤️ by starring some of my repositories!
 
